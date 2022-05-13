@@ -80,7 +80,4 @@ public class JXadres extends JFrame {
         lbVez.setText("VEZ DO: " + corVez);
     }
 
-    public static void main(String[] args) {
-        new JXadres();
-    }
 }
